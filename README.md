@@ -1,4 +1,4 @@
-# 🔗 React URL Shortener (Frontend Only)
+# 🔗 React URL Shortener (Frontend)
 
 A **frontend-only** URL shortener built with **React**.  
 This project demonstrates client-side link shortening, redirection, and statistics tracking using `localStorage` for persistence.  
